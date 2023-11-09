@@ -29,7 +29,9 @@
   font-size: 30px;
   right: 5%;
 }
-
+#navbar {
+  transition: all 0.5s;
+}
 @media (max-width: 576px) {
   .respo {
     display: flex;
